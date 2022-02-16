@@ -6,8 +6,13 @@ description: 'Lecture presentation covering the following topics: Pricing, funda
   utilities or mapping, conclusions, possible applications /
 
   economics, and marketing implications.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-301-managerial-psychology-laboratory-fall-2004/66f6c6f13ca679f0381442f11727d9bb_c_08_psychof.pdf
+file: /media/courses/15-301-managerial-psychology-laboratory-fall-2004/66f6c6f13ca679f0381442f11727d9bb_c_08_psychof.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: c_08_psychof.pdf
 uid: 66f6c6f1-3ca6-79f0-3814-42f11727d9bb

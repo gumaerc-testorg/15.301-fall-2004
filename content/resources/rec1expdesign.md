@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Brief outline of recitation topics.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-301-managerial-psychology-laboratory-fall-2004/74a5df01094e76dd049797845267e386_rec1expdesign.pdf
+file: /media/courses/15-301-managerial-psychology-laboratory-fall-2004/74a5df01094e76dd049797845267e386_rec1expdesign.pdf
 file_type: application/pdf
+learning_resource_types:
+- Recitations
+ocw_type: OCWFile
+parent_title: Recitations
+parent_type: CourseSection
 resourcetype: Document
 title: rec1expdesign.pdf
 uid: 74a5df01-094e-76dd-0497-97845267e386

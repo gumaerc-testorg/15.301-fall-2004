@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Rubric for grading the written portion of the project.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-301-managerial-psychology-laboratory-fall-2004/a8041bc01d43538ec53be4c7a7009702_Final_rubric.pdf
+file: /media/courses/15-301-managerial-psychology-laboratory-fall-2004/a8041bc01d43538ec53be4c7a7009702_Final_rubric.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Final_rubric.pdf
 uid: a8041bc0-1d43-538e-c53b-e4c7a7009702

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Supporting file for the class study project.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-301-managerial-psychology-laboratory-fall-2004/950e85a68370b41d0b8372ed509655fd_Class_Study_Data.xls
+file: /media/courses/15-301-managerial-psychology-laboratory-fall-2004/950e85a68370b41d0b8372ed509655fd_Class_Study_Data.xls
 file_type: application/msword
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Other
 title: Class_Study_Data.xls
 uid: 950e85a6-8370-b41d-0b83-72ed509655fd

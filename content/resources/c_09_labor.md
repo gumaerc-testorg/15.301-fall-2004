@@ -6,8 +6,13 @@ description: 'Lecture presentation covering the following topics: Standard persp
   compensations, the relationship between payment and motivation, effort, performance
 
   (low payments, high payments), labor & meaning, sabotage, and overall summary.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-301-managerial-psychology-laboratory-fall-2004/c01d3af4d5fae25bdb49bae972ded682_C_09_Labor.pdf
+file: /media/courses/15-301-managerial-psychology-laboratory-fall-2004/c01d3af4d5fae25bdb49bae972ded682_C_09_Labor.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: C_09_Labor.pdf
 uid: c01d3af4-d5fa-e25b-db49-bae972ded682
