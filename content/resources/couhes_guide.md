@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 80bb8c2d-3c4e-e5b1-fa20-255ae124007f
 resourcetype: Document
 title: couhes_guide.pdf
 uid: cbf73666-6222-6a51-548b-8269d5555715

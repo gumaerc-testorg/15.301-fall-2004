@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 15cc35b4-b2d5-b354-dbf6-af22ee6876bc
 resourcetype: Document
 title: writing_advice.pdf
 uid: 829e239c-59aa-3aa4-8424-1c6f3fa3135c

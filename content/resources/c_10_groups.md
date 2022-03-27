@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 15cc35b4-b2d5-b354-dbf6-af22ee6876bc
 resourcetype: Document
 title: C_10_Groups.pdf
 uid: 471cc1ca-7ddd-f05f-87ae-53713345451a

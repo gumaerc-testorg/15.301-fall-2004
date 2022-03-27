@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 15cc35b4-b2d5-b354-dbf6-af22ee6876bc
 resourcetype: Document
 title: C_06_DM.pdf
 uid: a661530e-8d0b-94ad-f9e6-257cefcc1fe0

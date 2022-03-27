@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 80bb8c2d-3c4e-e5b1-fa20-255ae124007f
 resourcetype: Document
 title: 4page_proposal.pdf
 uid: 26be2c12-bd15-4a2d-703e-ea25af2da34d

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 15cc35b4-b2d5-b354-dbf6-af22ee6876bc
 resourcetype: Document
 title: lec5emotion_self.pdf
 uid: be52808c-177f-95dd-647d-2eacf7b66f82

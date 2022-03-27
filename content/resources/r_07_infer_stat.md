@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 43dc99eb-ace8-d15a-ac08-42c4b0488851
 resourcetype: Document
 title: r_07_infer_stat.pdf
 uid: d84c11c1-fef7-3d9c-f2a2-6bcbbb52f3b1

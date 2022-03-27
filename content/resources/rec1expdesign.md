@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 43dc99eb-ace8-d15a-ac08-42c4b0488851
 resourcetype: Document
 title: rec1expdesign.pdf
 uid: 74a5df01-094e-76dd-0497-97845267e386

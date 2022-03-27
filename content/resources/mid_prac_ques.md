@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 88f630fb-bb84-0087-0954-9c263df5670a
 resourcetype: Document
 title: mid_prac_ques.pdf
 uid: fede174e-4b7a-10be-5822-50b897c909b1
