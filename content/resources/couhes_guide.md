@@ -5,6 +5,7 @@ file: /courses/15-301-managerial-psychology-laboratory-fall-2004/cbf7366662226a5
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: couhes_guide.pdf
 uid: cbf73666-6222-6a51-548b-8269d5555715
 ---
 This handout contains information on study design.
-

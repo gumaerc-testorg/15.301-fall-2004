@@ -5,6 +5,7 @@ file: /courses/15-301-managerial-psychology-laboratory-fall-2004/950e85a68370b41
 file_type: application/msword
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Class_Study_Data.xls
 uid: 950e85a6-8370-b41d-0b83-72ed509655fd
 ---
 Supporting file for the class study project.
-

@@ -6,6 +6,7 @@ file: /courses/15-301-managerial-psychology-laboratory-fall-2004/5042f17ef878ab5
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: final_report1.pdf
 uid: 5042f17e-f878-ab5a-613c-0a15ed9159ee
 ---
 This file includes the instructions for individual research project (final report).
-

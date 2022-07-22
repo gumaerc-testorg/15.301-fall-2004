@@ -9,6 +9,7 @@ file: /courses/15-301-managerial-psychology-laboratory-fall-2004/eac0c83fece69e8
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -19,4 +20,3 @@ uid: eac0c83f-ece6-9e85-e07a-2e320486a6be
 ---
 Recitation presentation covering the following topics: Experiments (random assignment, controls),
 and types of experiments (once cell, one factor, multiple factors, the role of interactions, within and between subjects designs).
-

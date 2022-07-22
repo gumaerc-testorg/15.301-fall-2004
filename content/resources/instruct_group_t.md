@@ -5,6 +5,7 @@ file: /courses/15-301-managerial-psychology-laboratory-fall-2004/85bf0cd7239461c
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: instruct_group_t.pdf
 uid: 85bf0cd7-2394-61cf-340e-827cae15e4a0
 ---
 Brief assignment related to the class study project.
-

@@ -6,6 +6,7 @@ file: /courses/15-301-managerial-psychology-laboratory-fall-2004/14ceaff6b6b89c2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: c_01_intro.pdf
 uid: 14ceaff6-b6b8-9c24-3b22-beabb219fdc1
 ---
 Lecture presentation covering the following topics: Critical thinking about data, managerial psychology, data analysis, and research design & execution.
-

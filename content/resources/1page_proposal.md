@@ -5,6 +5,7 @@ file: /courses/15-301-managerial-psychology-laboratory-fall-2004/c9c3acce1235025
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 1page_proposal.pdf
 uid: c9c3acce-1235-025b-4337-a42be72b1eb3
 ---
 Instructions and guidelines for the project proposal.
-

@@ -10,6 +10,7 @@ file: /courses/15-301-managerial-psychology-laboratory-fall-2004/66f6c6f13ca679f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ uid: 66f6c6f1-3ca6-79f0-3814-42f11727d9bb
 ---
 Lecture presentation covering the following topics: Pricing, fundamental values, a psychological perspective, about new products, some intuitions, the parts, results effects on pair-wise, real products, other examples, utility theory interpretation, utilities or mapping, conclusions, possible applications /
 economics, and marketing implications.
-

@@ -7,6 +7,7 @@ file: /courses/15-301-managerial-psychology-laboratory-fall-2004/471cc1ca7dddf05
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: C_10_Groups.pdf
 uid: 471cc1ca-7ddd-f05f-87ae-53713345451a
 ---
 Lecture presentation covering the following topics: Groups (what are the advantages of groups, are groups always going to be good mechanisms, what could be some of the disadvantages), and negatives of groups (mob behavior & deindividuation).
-

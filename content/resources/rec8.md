@@ -5,6 +5,7 @@ file: /courses/15-301-managerial-psychology-laboratory-fall-2004/3f0b1a1a7d29c4f
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: rec8.pdf
 uid: 3f0b1a1a-7d29-c4ff-59a5-9125662d7a22
 ---
 Brief outline of recitation topics.
-

@@ -9,6 +9,7 @@ file: /courses/15-301-managerial-psychology-laboratory-fall-2004/a661530e8d0b94a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ uid: a661530e-8d0b-94ad-f9e6-257cefcc1fe0
 ---
 Lecture presentation covering the following topics: Visual illusions as a metaphor for DM, decision making, Econ vs. psych, our goal, the rational agent model, the "Boundedly rational" model, regret, context effects,
 ADS & compromise, too much choice, the spotlight effect, magical thinking, and summary.
-
