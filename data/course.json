@@ -2,7 +2,8 @@
   "term": "Fall",
   "year": "2004",
   "level": [
-    "Undergraduate"
+    "Undergraduate",
+    "Graduate"
   ],
   "topics": [
     [
@@ -45,6 +46,7 @@
     "Lecture Notes",
     "Written Assignments"
   ],
-  "site_uid": "64a62071-681b-4316-ad52-997349834284",
+  "site_uid": "652cf499-cf3b-4928-b279-035f181b49e4",
+  "site_short_id": "15.301-fall-2004",
   "title": "Course Metadata"
 }
