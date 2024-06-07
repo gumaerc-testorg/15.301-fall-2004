@@ -2,6 +2,7 @@
 content_type: resource
 description: Introductory lecture presentation.
 file: /courses/15-301-managerial-psychology-laboratory-fall-2004/eaf42e137dd8dfb74f49d396c97ffe22_lec1_why.pdf
+file_size: 75836
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -4,6 +4,7 @@ description: 'Recitation presentation covering the following topics: How do peop
   answer questions, effects of scale formats, extracting sensitive information, and
   measurement summary.'
 file: /courses/15-301-managerial-psychology-laboratory-fall-2004/fde985c1e908e1e200199822a3ec133f_r_04_survey_d.pdf
+file_size: 240853
 file_type: application/pdf
 learning_resource_types:
 - Recitations

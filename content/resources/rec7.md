@@ -2,6 +2,7 @@
 content_type: resource
 description: Brief outline of recitation topics.
 file: /courses/15-301-managerial-psychology-laboratory-fall-2004/c3bba08c6c8fb7a072d19b6d337bb864_rec7.pdf
+file_size: 123866
 file_type: application/pdf
 learning_resource_types:
 - Recitations
