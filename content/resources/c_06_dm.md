@@ -6,6 +6,7 @@ description: 'Lecture presentation covering the following topics: Visual illusio
 
   ADS & compromise, too much choice, the spotlight effect, magical thinking, and summary.'
 file: /courses/15-301-managerial-psychology-laboratory-fall-2004/a661530e8d0b94adf9e6257cefcc1fe0_C_06_DM.pdf
+file_size: 435714
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

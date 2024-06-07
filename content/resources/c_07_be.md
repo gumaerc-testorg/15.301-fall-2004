@@ -6,6 +6,7 @@ description: 'Lecture presentation covering the following topics: Free lunches, 
   DM, prospect theory, expected utility, diminishing sensitivity, reference point,
   losses are steeper, stock market, and the probability weighting function.'
 file: /courses/15-301-managerial-psychology-laboratory-fall-2004/4704a3bbe21558acea6bc2ca784993cd_C_07_BE.pdf
+file_size: 491256
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

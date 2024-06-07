@@ -7,6 +7,7 @@ description: 'Lecture presentation covering the following topics: Pricing, funda
 
   economics, and marketing implications.'
 file: /courses/15-301-managerial-psychology-laboratory-fall-2004/66f6c6f13ca679f0381442f11727d9bb_c_08_psychof.pdf
+file_size: 2214747
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
