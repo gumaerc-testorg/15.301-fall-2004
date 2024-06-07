@@ -4,6 +4,7 @@ description: 'Student notes from the lecture covering the following topics: Syll
   visual illusions, relative perception, automaticity, adaptation, expectations, brand
   perception, and conclusion.'
 file: /courses/15-301-managerial-psychology-laboratory-fall-2004/523d9437b1e1d8d7092e77482e27486c_lec3perception.pdf
+file_size: 114573
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
