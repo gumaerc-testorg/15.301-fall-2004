@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Instructions and guidelines for the project proposal.
-file: /courses/15-301-managerial-psychology-laboratory-fall-2004/c9c3acce1235025b4337a42be72b1eb3_1page_proposal.pdf
+file: /ol-ocw-studio-app/courses/15-301-managerial-psychology-laboratory-fall-2004/c9c3acce1235025b4337a42be72b1eb3_1page_proposal.pdf
 file_size: 50678
 file_type: application/pdf
 learning_resource_types:
