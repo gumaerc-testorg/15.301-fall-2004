@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Brief assignment related to the class study project.
-file: /courses/15-301-managerial-psychology-laboratory-fall-2004/85bf0cd7239461cf340e827cae15e4a0_instruct_group_t.pdf
+file: /ol-ocw-studio-app/courses/15-301-managerial-psychology-laboratory-fall-2004/85bf0cd7239461cf340e827cae15e4a0_instruct_group_t.pdf
 file_size: 23912
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lecture presentation covering the following topics: The negotiator,
   find your triad,  and fairness in negotiations.'
-file: /courses/15-301-managerial-psychology-laboratory-fall-2004/c0cab682bb16014295e444f311f369a9_lec_neg15_301.pdf
+file: /ol-ocw-studio-app/courses/15-301-managerial-psychology-laboratory-fall-2004/c0cab682bb16014295e444f311f369a9_lec_neg15_301.pdf
 file_size: 125497
 file_type: application/pdf
 learning_resource_types:
