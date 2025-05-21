@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This handout contains information on study design.
-file: /ol-ocw-studio-app/courses/15-301-managerial-psychology-laboratory-fall-2004/cbf7366662226a51548b8269d5555715_couhes_guide.pdf
+file: /courses/15-301-managerial-psychology-laboratory-fall-2004/cbf7366662226a51548b8269d5555715_couhes_guide.pdf
 file_size: 212330
 file_type: application/pdf
 learning_resource_types:

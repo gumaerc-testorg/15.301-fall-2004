@@ -3,7 +3,7 @@ content_type: resource
 description: 'Student notes from the lecture covering the following topics: Prospect
   theory, reference point, losses are steeper than gains, the endowment effect, and
   stock market.'
-file: /ol-ocw-studio-app/courses/15-301-managerial-psychology-laboratory-fall-2004/e171732057fe3e941815a21787f13acb_lec7.pdf
+file: /courses/15-301-managerial-psychology-laboratory-fall-2004/e171732057fe3e941815a21787f13acb_lec7.pdf
 file_size: 124723
 file_type: application/pdf
 learning_resource_types:
