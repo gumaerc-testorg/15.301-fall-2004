@@ -6,7 +6,7 @@ description: 'Lecture presentation covering the following topics: A general fram
   memory, urban legends, applications, technological aids(the remembrance agent, ARIA:
   an agent for integrated, annotation and retrieval of images, memory prosthesis,
   visualizing health), and summary.'
-file: /ol-ocw-studio-app/courses/15-301-managerial-psychology-laboratory-fall-2004/7b219896919f5546109bbbefcc6180f0_c_04_memory.pdf
+file: /courses/15-301-managerial-psychology-laboratory-fall-2004/7b219896919f5546109bbbefcc6180f0_c_04_memory.pdf
 file_size: 613198
 file_type: application/pdf
 learning_resource_types:

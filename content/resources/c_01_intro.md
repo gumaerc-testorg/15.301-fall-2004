@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lecture presentation covering the following topics: Critical thinking
   about data, managerial psychology, data analysis, and research design & execution.'
-file: /ol-ocw-studio-app/courses/15-301-managerial-psychology-laboratory-fall-2004/14ceaff6b6b89c243b22beabb219fdc1_c_01_intro.pdf
+file: /courses/15-301-managerial-psychology-laboratory-fall-2004/14ceaff6b6b89c243b22beabb219fdc1_c_01_intro.pdf
 file_size: 278977
 file_type: application/pdf
 learning_resource_types:

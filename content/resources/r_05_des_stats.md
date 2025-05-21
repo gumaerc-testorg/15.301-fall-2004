@@ -3,7 +3,7 @@ content_type: resource
 description: 'Recitation presentation covering the following topics: Measurement scales,
   descriptive statistics, types of measurements, objective measures, subjective measures,
   and one more issue.'
-file: /ol-ocw-studio-app/courses/15-301-managerial-psychology-laboratory-fall-2004/da550ebb74630c00a05d0a94c16430f6_r_05_des_stats.pdf
+file: /courses/15-301-managerial-psychology-laboratory-fall-2004/da550ebb74630c00a05d0a94c16430f6_r_05_des_stats.pdf
 file_size: 989661
 file_type: application/pdf
 learning_resource_types:

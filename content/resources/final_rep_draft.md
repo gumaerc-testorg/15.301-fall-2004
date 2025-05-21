@@ -2,7 +2,7 @@
 content_type: resource
 description: This file includes the instructions for the individual research project
   (draft of final report).
-file: /ol-ocw-studio-app/courses/15-301-managerial-psychology-laboratory-fall-2004/166d25d7c1d6f6ee6746332c690eb355_final_rep_draft.pdf
+file: /courses/15-301-managerial-psychology-laboratory-fall-2004/166d25d7c1d6f6ee6746332c690eb355_final_rep_draft.pdf
 file_size: 31503
 file_type: application/pdf
 learning_resource_types:
