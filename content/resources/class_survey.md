@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Format for the survey used in the class study project.
-file: /ol-ocw-studio-app/courses/15-301-managerial-psychology-laboratory-fall-2004/0245fe3982db04aec2c475cf07bf9d0e_class_survey.pdf
+file: /courses/15-301-managerial-psychology-laboratory-fall-2004/0245fe3982db04aec2c475cf07bf9d0e_class_survey.pdf
 file_size: 32693
 file_type: application/pdf
 learning_resource_types:

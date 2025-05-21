@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Student notes from the lecture covering the following topics: decision
   making and regrets, context effects, Choices and summary of the topics.'
-file: /ol-ocw-studio-app/courses/15-301-managerial-psychology-laboratory-fall-2004/c7ed0159599f12cab7f4ce141f2ca2aa_lec6.pdf
+file: /courses/15-301-managerial-psychology-laboratory-fall-2004/c7ed0159599f12cab7f4ce141f2ca2aa_lec6.pdf
 file_size: 98878
 file_type: application/pdf
 learning_resource_types:
