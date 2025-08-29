@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Student notes from the lecture.
-file: /courses/15-301-managerial-psychology-laboratory-fall-2004/0468a042bc2123a32061271be392c43e_lec9.pdf
+file: /ol-ocw-studio-app/courses/15-301-managerial-psychology-laboratory-fall-2004/0468a042bc2123a32061271be392c43e_lec9.pdf
 file_size: 113732
 file_type: application/pdf
 learning_resource_types:

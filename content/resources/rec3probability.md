@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Brief outline of recitation topics.
-file: /courses/15-301-managerial-psychology-laboratory-fall-2004/70858e4bf79baf89a71d37b829c9a5c7_rec3probability.pdf
+file: /ol-ocw-studio-app/courses/15-301-managerial-psychology-laboratory-fall-2004/70858e4bf79baf89a71d37b829c9a5c7_rec3probability.pdf
 file_size: 138134
 file_type: application/pdf
 learning_resource_types:
