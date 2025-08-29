@@ -3,7 +3,7 @@ content_type: resource
 description: 'Recitation presentation covering the following topics:  Probability,
   probability & frequency (binomial distributions), other binomial distributions,
   calculating probabilities, and summary.'
-file: /courses/15-301-managerial-psychology-laboratory-fall-2004/eab8a7b9e958c9a663a2b2fbcd253cf5_r_03_probability.pdf
+file: /ol-ocw-studio-app/courses/15-301-managerial-psychology-laboratory-fall-2004/eab8a7b9e958c9a663a2b2fbcd253cf5_r_03_probability.pdf
 file_size: 330924
 file_type: application/pdf
 learning_resource_types:

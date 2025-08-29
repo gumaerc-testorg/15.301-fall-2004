@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Student notes from the final course review.
-file: /courses/15-301-managerial-psychology-laboratory-fall-2004/4eca712d69099b51d7f7d6094b99e383_lec12.pdf
+file: /ol-ocw-studio-app/courses/15-301-managerial-psychology-laboratory-fall-2004/4eca712d69099b51d7f7d6094b99e383_lec12.pdf
 file_size: 98988
 file_type: application/pdf
 learning_resource_types:

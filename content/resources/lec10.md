@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lecture presentation covering the following topics: Mob behavior, conformity,
   and obedience.'
-file: /courses/15-301-managerial-psychology-laboratory-fall-2004/a9d9659f060b5af696b654e212a24b7d_lec10.pdf
+file: /ol-ocw-studio-app/courses/15-301-managerial-psychology-laboratory-fall-2004/a9d9659f060b5af696b654e212a24b7d_lec10.pdf
 file_size: 90719
 file_type: application/pdf
 learning_resource_types:

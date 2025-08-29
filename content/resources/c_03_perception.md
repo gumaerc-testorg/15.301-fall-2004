@@ -3,7 +3,7 @@ content_type: resource
 description: 'Lecture presentation covering the following topics: Visual illusions,
   and higher order perception (perception is relative, automaticity, adaptation expectation,
   and perception & brands).'
-file: /courses/15-301-managerial-psychology-laboratory-fall-2004/6a4ab9a49794e8cd2a914baca6597827_c_03_perception.pdf
+file: /ol-ocw-studio-app/courses/15-301-managerial-psychology-laboratory-fall-2004/6a4ab9a49794e8cd2a914baca6597827_c_03_perception.pdf
 file_size: 2547666
 file_type: application/pdf
 learning_resource_types:
