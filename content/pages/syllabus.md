@@ -171,7 +171,7 @@ Textbooks (Note that you are responsible for _all_ material in the following thr
 Course Reader
 
 Moore, David S. _The Basic Practice of Statistics_. 3rd ed. New York: W. H. Freeman and Company, 1995. ISBN: 0716726289.  
-(Online Statistics Reference: Hopkins, Will G. [_A New View of Statistics_](http://www.sportsci.org/resource/stats/).)
+(Online Statistics Reference: Hopkins, Will G. {{% resource_link "9c294877-fca4-42eb-9330-6c11f0bcb31c" "_A New View of Statistics_" %}}.)
 
 Gilovich, Thomas. _How We Know What Isn't So_. New York: Free Press, 1993. ISBN: 0029117062.  
 (Read Chapters 1-7 before the Midterm, and the whole book before the Final Exam.)
